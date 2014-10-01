@@ -1,0 +1,7 @@
+{
+  "name": "ejemploNode_MySQL",
+  "main": "server.js",
+  "dependencies": {
+    "mysql": "^2.5.1"
+  }
+}
